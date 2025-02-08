@@ -365,7 +365,7 @@ To run the frontend of the project, run the following command
 npm run start:frontend:dev
 ```
 
-### Deploying
+### Deploying 1
 
 To deploy your cloudflare worker, run the following command:
 
